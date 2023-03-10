@@ -4,6 +4,7 @@ Caso a venda seja maio de que 500, dar um desconto de 50 reais
 '''
 
 v = float(input("Qual o valor da venda? "))
+
 if v > 500:
     v = v - 50
 else:
@@ -17,3 +18,4 @@ Pedir ao usuário o valor da venda e se ele tem cupom ou não, se a venda for ma
 terá um desconto de 12% se não desconto de 6% no valor da venda. Caso o usuário tenha o cupom
 será debitado 50 reais da venda com o desconto
 '''
+
